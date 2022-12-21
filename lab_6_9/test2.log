@@ -1,0 +1,9 @@
+ERROR: Line 4: This label is already encountered.This is a Duplicate Label
+ERROR: Line 6: The Operand is not a number
+ERROR: Line 7: Operand is missing here
+ERROR: Line 8: An Unexpected Operand encountered
+ERROR: Line 9: Encountered Extra words at the end of the line 
+ERROR: Line 10: This is not a valid Label
+ERROR: Line 11: This is not a valid Mnemonic
+ERROR: Line 12: This is not a valid Mnemonic
+ERROR: Line 12: No such label is present
